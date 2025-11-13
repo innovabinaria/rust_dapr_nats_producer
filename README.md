@@ -25,7 +25,7 @@ This project demonstrates how to build a microservice in Rust using Dapr and NAT
 
 ---
 
-## ▶️ Run with Dapr
+## ▶️ Run with Dapr 0.15.1
 
 First, make sure you have a NATS component file named for example `components/nats-pubsub.yaml` with the following content:
 
