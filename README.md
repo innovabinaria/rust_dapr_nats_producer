@@ -101,3 +101,4 @@ nats --server nats://host.docker.internal:4222 stream view my-stream
 - The Rust application uses Axum as the web framework and Dapr for message publishing.
 
 Enjoy building event-driven apps with Rust and Dapr!
+Author: Victor Aguayo
