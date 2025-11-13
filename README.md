@@ -2,7 +2,6 @@
 
 ---
 
-
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 
 This project demonstrates how to build a microservice in Rust using Dapr and NATS JetStream for pub/sub messaging.
