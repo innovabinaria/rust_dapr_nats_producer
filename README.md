@@ -104,6 +104,7 @@ nats --server nats://host.docker.internal:4222 stream view my-stream
 
 - Make sure `nats-server` is running and reachable from your host using `host.docker.internal` if you're on Docker Desktop (Windows/macOS).
 - The Rust application uses Axum as the web framework and Dapr for message publishing.
+- The address https://127.0.0.1 is used as the basis for DAPR.
 
 Enjoy building event-driven apps with Rust and Dapr!
 
